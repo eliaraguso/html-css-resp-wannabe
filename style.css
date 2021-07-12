@@ -87,10 +87,11 @@ img {
 
   .row {
     width: 100%;
-    margin-top: 0;
+    margin: 0;
   }
 
   #lezioni, #why {
     background-color: #f2f2cd;
   }
+
 }
